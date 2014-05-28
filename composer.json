@@ -1,0 +1,12 @@
+{
+    "name": "jmoati/ratchet-broadcaster",
+    "authors": [
+        {
+            "name": "Jacques Moati",
+            "email": "jacques@moati.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "RatchetBroadcaster": "/" }
+    }
+}
